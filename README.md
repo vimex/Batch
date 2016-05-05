@@ -1,7 +1,7 @@
-Batch Component
-===============
+Batch Library
+=============
 
-Batch architecture component inspired by Spring Batch.
+Batch architecture library inspired by Spring Batch.
 
 See http://docs.spring.io/spring-batch/reference/html/domain.html for an explanation of the Domain Language objects you will find.
 
