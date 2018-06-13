@@ -11,15 +11,18 @@
             "homepage": "http://www.akeneo.com"
         }
     ],
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/0lukas/StorageUtils" }
+    ],
     "require": {
         "php": ">=7.1.0",
-        "symfony/event-dispatcher": "^2.3",
-        "symfony/property-access": "^2.3",
-        "symfony/validator": "^2.3",
-        "symfony/serializer": "^2.3",
-        "symfony/filesystem": "^2.3",
-        "doctrine/common": "^2.1",
-        "akeneo/storage-utils": "0.6.x-dev"
+        "symfony/event-dispatcher": "^4.1",
+        "symfony/property-access": "^4.1",
+        "symfony/validator": "^4.1",
+        "symfony/serializer": "^4.1",
+        "symfony/filesystem": "^4.1",
+        "doctrine/common": "^2.7",
+        "akeneo/storage-utils": "dev-master"
     },
     "require-dev": {
         "phpspec/phpspec": "3.0.0"
