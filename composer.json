@@ -11,9 +11,6 @@
             "homepage": "http://www.akeneo.com"
         }
     ],
-    "repositories": [
-        { "type": "vcs", "url": "https://github.com/0lukas/StorageUtils" }
-    ],
     "require": {
         "php": ">=7.1.0",
         "symfony/event-dispatcher": "^3.4|^4.1",
