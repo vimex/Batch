@@ -1,5 +1,5 @@
 {
-    "name": "0lukas/batch",
+    "name": "akeneo/batch",
     "type": "library",
     "description": "Akeneo Batch",
     "keywords": ["Akeneo", "Batch", "Job", "Reader", "Writer", "Processor"],
@@ -22,7 +22,7 @@
         "symfony/serializer": "^4.1",
         "symfony/filesystem": "^4.1",
         "doctrine/common": "^2.7",
-        "0lukas/storage-utils": "dev-master"
+        "akeneo/storage-utils": "dev-master"
     },
     "require-dev": {
         "phpspec/phpspec": "3.0.0"
