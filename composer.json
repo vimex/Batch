@@ -1,5 +1,5 @@
 {
-    "name": "akeneo/batch",
+    "name": "vimex/batch",
     "type": "library",
     "description": "Akeneo Batch",
     "keywords": ["Akeneo", "Batch", "Job", "Reader", "Writer", "Processor"],
