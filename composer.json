@@ -21,7 +21,7 @@
         "symfony/validator": "^4.1",
         "symfony/serializer": "^4.1",
         "symfony/filesystem": "^4.1",
-        "doctrine/common": "^2.7",
+        "doctrine/common": "^2.6.1",
         "vimex/storage-utils": "dev-master"
     },
     "require-dev": {
