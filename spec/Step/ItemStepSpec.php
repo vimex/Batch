@@ -2,7 +2,7 @@
 
 namespace spec\Akeneo\Component\Batch\Step;
 
-use Akeneo\Bundle\BatchBundle\Job\DoctrineJobRepository;
+use Akeneo\Component\Batch\Job\JobRepositoryInterface;
 use Akeneo\Component\Batch\Event\EventInterface;
 use Akeneo\Component\Batch\Item\FileInvalidItem;
 use Akeneo\Component\Batch\Item\InvalidItemException;
@@ -21,7 +21,7 @@ class ItemStepSpec extends ObjectBehavior
 {
     function let(
         EventDispatcherInterface $dispatcher,
-        DoctrineJobRepository $repository,
+        JobRepositoryInterface $repository,
         ItemReaderInterface $reader,
         ItemProcessorInterface $processor,
         ItemWriterInterface $writer
