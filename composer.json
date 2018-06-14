@@ -30,5 +30,5 @@
     "autoload": {
         "psr-4": { "Akeneo\\Component\\Batch\\": "" }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
