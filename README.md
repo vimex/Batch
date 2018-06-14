@@ -5,9 +5,9 @@ Batch architecture library inspired by Spring Batch.
 
 See http://docs.spring.io/spring-batch/reference/html/domain.html for an explanation of the Domain Language objects you will find.
 
-A [Symfony Bundle](https://github.com/akeneo/BatchBundle) also exists to integrate this component in your Symfony project.
+A [Symfony Bundle](https://github.com/vimex/BatchBundle) also exists to integrate this component in your Symfony project.
 
-[![Build Status](https://api.travis-ci.org/akeneo/batch.png?branch=master)](https://travis-ci.org/akeneo/batch)
+[![Build Status](https://travis-ci.org/vimex/Batch.svg?branch=master)](https://travis-ci.org/vimex/Batch)
 
 Akeneo PIM
 ----------
