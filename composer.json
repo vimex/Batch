@@ -13,11 +13,11 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "symfony/event-dispatcher": "^3.4|^4.0",
-        "symfony/property-access": "^3.4|^4.0",
-        "symfony/validator": "^3.4|^4.0",
-        "symfony/serializer": "^3.4|^4.0",
-        "symfony/filesystem": "^3.4|^4.0",
+        "symfony/event-dispatcher": "^3.4||^4.0",
+        "symfony/property-access": "^3.4||^4.0",
+        "symfony/validator": "^3.4||^4.0",
+        "symfony/serializer": "^3.4||^4.0",
+        "symfony/filesystem": "^3.4||^4.0",
         "doctrine/common": "^2.5",
         "vimex/storage-utils": "dev-master"
     },
@@ -30,5 +30,5 @@
     "autoload": {
         "psr-4": { "Akeneo\\Component\\Batch\\": "" }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
