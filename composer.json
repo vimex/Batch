@@ -19,7 +19,7 @@
         "symfony/serializer": "^3.4||^4.0",
         "symfony/filesystem": "^3.4||^4.0",
         "doctrine/common": "^2.5",
-        "vimex/storage-utils": "dev-master"
+        "vimex/storage-utils": "^0.1"
     },
     "require-dev": {
         "phpspec/phpspec": "3.0.0"
